@@ -1,11 +1,11 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of railway reservation
+To study the problem statement, SRS document and draw all the UML diagrams of railway management
 System.
 
 # PROBLEM STATEMENT:
-To study the problem statement, SRS document and draw all the UML diagrams of Railway reservation system
+To study the problem statement, SRS document and draw all the UML diagrams of Railway management system
 
 # DIAGRAMS:
 USE CASE DIAGREM:
@@ -34,4 +34,4 @@ ACTIVITY DIAGRAM:
 
 
 # RESULT:
-Thus the Railway Reservation System project was executed and the output was verified.
+Thus the Railway Management System project was executed and the output was verified.
