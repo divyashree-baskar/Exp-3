@@ -1,8 +1,7 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of railway management
-System.
+To draw the UML diagram for Railway Management System.
 
 # PROBLEM STATEMENT:
 To study the problem statement, SRS document and draw all the UML diagrams of Railway management system
